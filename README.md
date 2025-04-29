@@ -4,6 +4,8 @@ Saudações amigos, amigas e amigues programadores! Caso não me conheça, meu n
 13 anos e moro em Teresina - Piauí, Brazil. Sou pleno nível 3 (experiência profissional), e, independente de como você tenha vindo parar aqui, *EUREKA!*, pode aproveitar todas os macetes que eu vou te passar agora para desfrutar
 de todas os recursos deste repositório. Me considere amigo...
 
+![ignorethis](print_1_repositorie.png)
+
 ### Público-alvo (Deste repositório em específico)  :
 
 ✅ Estudantes de Ciência da Computação, Engenharia de Software e IA.
