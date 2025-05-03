@@ -1,6 +1,6 @@
 # Importação das bibliotecas necessárias para o projeto
 import cv2  # OpenCV para captura de vídeo, manipulação de imagens e exibição
-import mediapipe as mp  # MediaPipe para detecção de mãos em tempo real
+import mediapipe as mp  # MediaPipe para detectar mãos em tempo real
 import numpy as np  # NumPy para manipulação de arrays, usado no contorno personalizado
 import time  # Para controle de FPS e monitoramento de desempenho
 
