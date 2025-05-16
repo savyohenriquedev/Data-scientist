@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.lang.Math;
 
-public class CalculatorBeta {
+public class calculadora_em_ {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int opcao;
