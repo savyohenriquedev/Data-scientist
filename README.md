@@ -1,4 +1,4 @@
-# Sejam todos muito bem-vindos ⭐
+# Opa galera!
 ## Saudações 👋
 Saudações amigos, amigas e amigues programadores! Caso não me conheça, meu nome é Henrique, Sávyo Henrique. Tenho
 13 anos e moro em Teresina - Piauí, Brazil. Sou pleno nível 3 (experiência profissional), e, independente de como você tenha vindo parar aqui, *EUREKA!*, pode aproveitar todas os macetes que eu vou te passar agora para desfrutar
